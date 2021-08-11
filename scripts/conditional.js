@@ -1,2 +1,2 @@
-// Boolean and if statement conditions are
+// Boolean and if statement conditions
 
